@@ -16,7 +16,7 @@
 
 Tools :hammer::
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caterinaconz&show_icons=true&theme=cobalt)](https://github.com/caterinaconz/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caterinaconz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/caterinaconz/github-readme-stats) 
 
 GitHub Stats :chart_with_downwards_trend:: 
 
