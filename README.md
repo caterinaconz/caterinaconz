@@ -11,7 +11,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/caterina-conz/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/caterinaconz)
+[![GitHub](https://imgur.com/vUiouM8) GitHub](https://github.com/caterinaconz)
 
 GitHub Stats :chart_with_downwards_trend:: 
 
