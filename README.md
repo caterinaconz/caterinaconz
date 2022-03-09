@@ -1,11 +1,11 @@
-## Hey there, I'm Caterina 👋
+## Hey there, I'm Cate 👋
 
 ________________________________________________________________________________________________________________________________________________
 
 ## About me: 
 
 - 🔭 Aspiring Data Scientist
-- 🎓 Currently studying at ESSEC & CentraleSupélec, Paris
+- 🎓 Currently studying at ESSEC & CentraleSupélec
 - 📌 Paris
 
 ## Contact me:
