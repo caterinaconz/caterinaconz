@@ -4,8 +4,8 @@ ________________________________________________________________________________
 
 ## About me: 
 
-- 🔭 Aspiring Data Scientist
-- 🎓 Currently studying at ESSEC & CentraleSupélec
+- 🔭 NLP Data Scientist
+- 🎓 ESSEC & CentraleSupélec
 - 📌 Paris
 
 ## Contact me:
